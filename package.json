@@ -1,0 +1,12 @@
+{
+  "name": "backend-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "backend-library": "git+https://github.com/NodeEra-Begin/node-project-linking.git#main"
+  }
+}
