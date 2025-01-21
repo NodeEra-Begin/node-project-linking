@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"backend-library@git+https://github.com/NodeEra-Begin/node-project-library.git":
+  version "1.0.0"
+  resolved "git+https://github.com/NodeEra-Begin/node-project-library.git#fb0716f2537bc71df103b1837b5770fd6c1f2f01"
+
 "backend-library@git+https://github.com/NodeEra-Begin/node-project-linking.git#main":
   version "0.0.0"
   resolved "git+https://github.com/NodeEra-Begin/node-project-linking.git#bdc64f24bbbca3b30bbb360214a7e0675637cba7"

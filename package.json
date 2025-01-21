@@ -7,6 +7,6 @@
     "dev": "node index.js"
   },
   "dependencies": {
-    "backend-library": "git+https://github.com/NodeEra-Begin/node-project-linking.git#main"
+    "backend-library": "git+https://github.com/NodeEra-Begin/node-project-library.git"
   }
 }

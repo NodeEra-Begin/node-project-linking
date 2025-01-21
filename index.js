@@ -1,4 +1,4 @@
 // main-project/index.js
-const { greet } = require('backend-library');
+const { greet } = require("backend-library");
 
-console.log(greet); // Outputs: Hello, Adam!
+console.log(greet("Adam")); // Outputs: Hello, Adam!
